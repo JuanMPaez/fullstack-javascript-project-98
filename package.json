@@ -1,0 +1,19 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "Terminal games for my first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanMPaez/fullstack-javascript-project-98.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanMPaez/fullstack-javascript-project-98/issues"
+  },
+  "homepage": "https://github.com/JuanMPaez/fullstack-javascript-project-98#readme"
+}
